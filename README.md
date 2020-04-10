@@ -1,7 +1,7 @@
 
 1. INTRODUCTION
 
-This directory includes all the files that are being used in this project. 
+The point of this project is to create a tool which, given a dataset if plant pictures, determines if they want water, and waters them if they do. This directory includes all the files that are being used in this project. Part of the code (taking picture and service) are written in Python, and the machine learning model is trained using jupyter notebooks. 
 
 2. DIRECTORIES
 
